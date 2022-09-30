@@ -1,7 +1,0 @@
-print("Vad heter du i Förnamn?: ")
-förnamn = input("")
-print("Vad heter du i Efternamn?: ")
-efternamn = input("")
-print("Hur gammal är du?: ")
-ålder = input("")
-print(("Du heter:"),förnamn, efternamn, ("och är hela"), ålder, ("år gammal."))
